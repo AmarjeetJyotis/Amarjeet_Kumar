@@ -1,3 +1,7 @@
+Identifying Diseases Critical genes for Breast Cancer using 
+machine learning techniques
+
+
 Welcome to the official repository for our research paper on "Identifying Critical Genes for Breast Cancer Using Machine Learning Techniques." In this project, we explore the application of advanced machine learning methods to identify and prioritize critical genes associated with breast cancer. Our study aims to contribute to the understanding of the underlying genetic factors driving breast cancer progression and provide insights into potential therapeutic targets.
 
 Key Features:
